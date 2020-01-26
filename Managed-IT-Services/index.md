@@ -15,7 +15,6 @@ From keeping your emails flowing to keeping your valuable data backed up and sec
 7. Data Protection
 8. Disaster Recovery
 9. Digital e-Signature
-10. Private Cloud
 
 ## Get Started Instantly in 4 Easy Steps!
 * Step 1. Book a 1-to-1 Online Consultation
