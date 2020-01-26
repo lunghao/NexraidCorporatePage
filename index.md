@@ -27,9 +27,11 @@ We will understand your gaps and create a comprehensive plan on how you can cons
 
 
 ## Managed IT Services
+[Link](/Managed-IT-Services/index.md)
+
 Let us take over the burden of managing your day-to-day IT tasks, from managing your digital infrastructure and workloads, to protecting your organisation from ever-evolving security threats – letting you focus on running your business.
 
-* Email and Storage
+* [Email and Storage](/Managed-IT-Services/Email-and-Storage.md)
 * Network Infrastructure
 * Identity Access Management
 * Device Management
