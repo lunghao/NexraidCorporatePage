@@ -36,7 +36,7 @@ Fuelled by passion and innovation, we aim to achieve unparalleled performance an
 * [Our Processes](/About-Us/Our-Processes.md)
 
 ## Our Milestone
-[Our Processes](/About-Us/Our-Processes.md)
+[Our Milestone](/About-Us/Our-Milestone.md)
 
 ## Corporate Statement 
 A leader in the hybrid cloud and cloud optimisation technology space, Nexraid aims to automate every organization with optimised workflows and processes.
