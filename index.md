@@ -15,6 +15,8 @@ At Nexraid Consulting, we make deploying any location easy and fuss-free, no mat
 
 
 ## Consulting Services
+[Link](/Consulting-Services/index.md)
+
 ### Unsure about what you need?
 We will understand your gaps and create a comprehensive plan on how you can consistently drive digital innovation and transformation to achieve greater privacy, confidentiality, automation and employee satisfaction.
 
@@ -52,6 +54,8 @@ Engage us to run your entire software workflow, as we design, development, deplo
 * Telemetry Monitoring
 
 ## Managed Private Cloud
+[Link](/Managed-Private-Cloud/index.md)
+
 Lack of expertise to operate and maintain your own private cloud? Introducing NexRack - our fully managed Private Cloud solution, equipped with all the hardware essentials to host your data and applications anywhere, on a flexible budget.
 * NexRack DC (Rack Size Server System)
 * NexRack HD (High Density Server with 4 Nodes)
