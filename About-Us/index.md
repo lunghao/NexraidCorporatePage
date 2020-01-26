@@ -17,3 +17,5 @@ NexOps empowers companies to collaborate on modern, corporate infrastructure wit
 We work closely with your CTO, VPE and IT teams to architect solutions that support your needs and strategic initiatives. We make it our top priority to establish a strong rapport with your team and do our best to promote frictionless collaboration - with as little management overhead, a boon that most engineers would appreciate.
 
 By placing a strong emphasis from the very beginning on cross-training engineers, you can expect that our teams will hone their operational competencies and develop the necessary skills to triage critical problems, setup development sandboxes, and handle your production environments.
+
+[Our Pillars](/About-Us/Our-Pillars.md)
